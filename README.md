@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-(https://github.com/user-attachments/assets/bc87ef9f-4137-41c0-835c-376198195d66)
+https://imgur.com/a/PWEEOTY
 </p>
 <p>
 First go to Microsoft Azure and type Resource Group then click create Resource Group
@@ -54,7 +54,8 @@ Now type RG-osticket for the name of the Resource Group. Next for the region cli
 </p>
 <p>
 Now go to the review and create tab and click the create button on the bottom left 
-</p>
+</p>![1](https://github.com/user-attachments/assets/15e9bf5f-fe62-4ffe-9a75-89bcd2babe6d)
+
 <br />
 
 <p>

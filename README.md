@@ -34,7 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![1](https://github.com/user-attachments/assets/e895d721-36f2-457a-a76f-cfe51499a74a)
+<img src="https://github.com/user-attachments/assets/852c18a9-97c4-47e1-a362-35f44827d5a6"
+"/>
 
 </p>
 <p>
@@ -43,7 +44,9 @@ First go to Microsoft Azure and type Resource Group then click create Resource G
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4411c1f1-0cf9-4a78-aadc-3d27c6b34946"/>
+<img src="https://github.com/user-attachments/assets/1ac3d8e4-f111-4437-af18-a24fae32d245"
+
+
 </p>
 <p>
 Now type RG-osticket for the name of the Resource Group. Next for the region click US West US 3 
@@ -51,16 +54,17 @@ Now type RG-osticket for the name of the Resource Group. Next for the region cli
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/eff6d1ee-3474-4ea3-b73a-87c97f082a6a"/>
+<img src="https://github.com/user-attachments/assets/908e6477-2127-4ad6-ab35-02720fe79ef4"
+>
 </p>
 <p>
 Now go to the review and create tab and click the create button on the bottom left 
-</p>![1](https://github.com/user-attachments/assets/15e9bf5f-fe62-4ffe-9a75-89bcd2babe6d)
 
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/df5e9844-91e1-440b-b3fe-fd29d9b5fa9e"/>
+<img src="https://github.com/user-attachments/assets/c7c818d6-e857-45f4-a14c-dad56b835daf"
+/>
 </p>
 <p>
 Now type Virtual Machines and click create azure virtual machine 
@@ -68,7 +72,8 @@ Now type Virtual Machines and click create azure virtual machine
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cb8a5a02-b384-4980-aa1f-4b59802e6d30"/>
+<img src="https://github.com/user-attachments/assets/b87c70ed-73cf-4755-b68b-5220ad4b5e18"
+>
 </p>
 <p>
 Now select the resource group we created RG-osticket then the virtual machine name type VM-osticket and the region select the same as the resource group US West US 3 
@@ -76,7 +81,8 @@ Now select the resource group we created RG-osticket then the virtual machine na
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/74938101-497d-4fd2-98f2-a37d0c3593b9"/>
+<img src="https://github.com/user-attachments/assets/30576e32-2682-425f-9744-b83216eedb0c"
+/>
 </p>
 <p>
 Now for the image select windows 10 pro version. For the size select standard Ec2 and the username type labuser and the password type a unique password remember to copy all this down on a notepad or physical paper
@@ -84,7 +90,8 @@ Now for the image select windows 10 pro version. For the size select standard Ec
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/b50019f0-ddcf-4a12-919c-542c96d935e0"/>
+<img src="https://github.com/user-attachments/assets/1cb48017-58fd-4a1f-9f35-2fd564d440c8"
+
 </p>
 <p>
 Next click the licensing box and then click review and create 
@@ -92,7 +99,8 @@ Next click the licensing box and then click review and create
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e37cdcfd-b0c4-49ec-a404-f857fd297230"/>
+<img src="https://github.com/user-attachments/assets/d174ecdd-dab6-45fe-9154-056c7452bb36"
+"/>
 </p>
 <p>
 Now go to the networking tab and make sure virtual network, subnet, and public ip all says (new)
@@ -100,7 +108,8 @@ Now go to the networking tab and make sure virtual network, subnet, and public i
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/aa85a26a-ba88-4299-92f6-5102aac9bdec"/>
+![9](https://github.com/user-attachments/assets/13d3f8eb-2045-4ad7-b82a-74d7a27e0e46)
+
 </p>
 <p>
 Next create the virtual machine and you will see the deployment process start 
@@ -108,7 +117,8 @@ Next create the virtual machine and you will see the deployment process start
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d11832b6-49a0-49e6-805b-f72a9069c83b"/>
+![10](https://github.com/user-attachments/assets/903b06ff-d235-407e-9ebc-a36f816ab203)
+
 </p>
 <p>
 Now the process will be done when you see a green check mark 
@@ -116,7 +126,8 @@ Now the process will be done when you see a green check mark
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e4a242f3-04f1-4f2b-8d95-2caa45bb360a"/>
+![11](https://github.com/user-attachments/assets/5e09d0d2-6aee-4193-830f-03c6f084a434)
+
 </p>
 <p>
 Next go back to the virtual machine home page and click VM-osticket then copy the public IP address
@@ -124,7 +135,8 @@ Next go back to the virtual machine home page and click VM-osticket then copy th
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/54a098be-e769-43ab-a3b0-0d96aa70e7c7"/>
+![12](https://github.com/user-attachments/assets/da4e988f-edd9-4e75-b9b9-dfda7be1863c)
+
 </p>
 <p>
 Next type Remote Desktop Connection in the search bar of your PC then click to open the app
@@ -132,7 +144,8 @@ Next type Remote Desktop Connection in the search bar of your PC then click to o
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/27639ad0-fd28-4511-9e20-26f49b2e6c36"/>
+![13](https://github.com/user-attachments/assets/ac9d27fe-a6a9-4357-8e77-adc59c62197c)
+
 </p>
 <p>
 Paste the public IP of VM-osticket into the computer section then click connect 
@@ -140,10 +153,12 @@ Paste the public IP of VM-osticket into the computer section then click connect
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/16f1cecb-7064-45ad-98a2-f9efa9bb89c8"/>
+![14](https://github.com/user-attachments/assets/11baecda-4d2c-4ddd-b4ca-b7bb9ba6faf6)
+
 </p>
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cbbc0261-d0f2-475f-9cf5-6579f2cca14b"/>
+![15](https://github.com/user-attachments/assets/1615831f-175b-4f34-aa95-0e7a34370e90)
+
 </p>
 <p>
 now for the user name type labuser and the password type the password you made for the VM
@@ -151,7 +166,8 @@ now for the user name type labuser and the password type the password you made f
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c14f377c-ff81-4314-98ce-a3cdbcd715aa"/>
+![16](https://github.com/user-attachments/assets/cd3ddadc-3f2a-4b09-ab92-1ce471cb827e)
+
 </p>
 <p>
 Next click yes to connect to the VM
@@ -159,7 +175,8 @@ Next click yes to connect to the VM
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/b00ae585-36e3-49b2-ba7b-012404b2f796"/>
+![17](https://github.com/user-attachments/assets/e9a6e64c-d61f-474d-a47d-115465441e91)
+
 </p>
 <p>
 Now you will see the virtual machine log into labuser load
@@ -167,7 +184,8 @@ Now you will see the virtual machine log into labuser load
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9ffead6c-4b08-444a-8223-8c2f5d16661d"/>
+![18](https://github.com/user-attachments/assets/8627795d-fed5-426e-b03c-6f277f057a2b)
+
 </p>
 <p>
 Now click no for all the following in the image above 
@@ -175,7 +193,8 @@ Now click no for all the following in the image above
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/081fb0bc-7143-403c-9b80-6cf81c7c2491"/>
+![19](https://github.com/user-attachments/assets/1d2463e0-161b-4c8b-b8e3-e0b920f3aa62)
+
 </p>
 <p>
 Now once the networks tab shows on the right side of the screen then click yes 
@@ -183,7 +202,8 @@ Now once the networks tab shows on the right side of the screen then click yes
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7626cf37-a8d9-4020-882f-0c15148e0d5f"/>
+![20](https://github.com/user-attachments/assets/8295cc9a-2a58-408c-9d9d-ed0b46dc85c2)
+
 </p>
 <p>
 Next right click the windows icon on the bottom left then click run 
@@ -191,7 +211,8 @@ Next right click the windows icon on the bottom left then click run
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/595c1128-d938-4e92-a399-d86804ef641a"/>
+![21](https://github.com/user-attachments/assets/34bee8a0-0c0d-4673-a61f-c29340d85aa2)
+
 </p>
 <p>
 Now type control type then click ok 
@@ -199,7 +220,8 @@ Now type control type then click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/82a026ed-526c-45f7-8562-9c7406d04d12"/>
+![22](https://github.com/user-attachments/assets/b08f8401-1a45-480c-8127-a02b244536ef)
+
 </p>
 <p>
 Now click programs 
@@ -207,7 +229,8 @@ Now click programs
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5a0f17a5-dbcd-49f8-aabe-a84207a13387"/>
+![23](https://github.com/user-attachments/assets/e8a19e10-7e18-4480-abaf-5befb2e219e8)
+
 </p>
 <p>
 Click programs and features
@@ -215,7 +238,8 @@ Click programs and features
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ea423df3-a563-4f17-b17a-8007de3e9c64"/>
+![24](https://github.com/user-attachments/assets/5d7673ea-ebb5-4923-a79a-728d80e99a55)
+
 </p>
 <p>
 Now click Internet Information Services
@@ -223,7 +247,8 @@ Now click Internet Information Services
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d42c75c7-4921-4219-aeda-c299198931b5"/>
+![25](https://github.com/user-attachments/assets/a1a650ac-9207-44ed-bc29-17aa638c2b09)
+
 </p>
 <p>
 Now click world wide web services 
@@ -231,7 +256,8 @@ Now click world wide web services
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c71c54ff-8fc8-43fc-9c27-d93263712547"/>
+![26](https://github.com/user-attachments/assets/7768cd38-c86e-4873-b2e0-d602a0eb457b)
+
 </p>
 <p>
 Next click application development features 
@@ -239,7 +265,8 @@ Next click application development features
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ecbffb91-0e4c-45fa-992b-c9fbd532e067"/>
+![27](https://github.com/user-attachments/assets/4ae64bf1-344e-45fb-aa7a-62e625fb5658)
+
 </p>
 <p>
 Next click the box for CGI
@@ -247,7 +274,8 @@ Next click the box for CGI
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f114579a-ceb8-4ecb-8b48-656b1d63dcc8"/>
+![28](https://github.com/user-attachments/assets/f85ae36a-8bcf-404b-ab87-1d9211ad8ad9)
+
 </p>
 <p>
 Next click Common HTTP Features 
@@ -255,7 +283,8 @@ Next click Common HTTP Features
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f577be71-ef65-4554-b40f-0088df36f689"/>
+![29](https://github.com/user-attachments/assets/61f39e95-d469-4b99-9e15-317a1a0ec36b)
+
 </p>
 <p>
 Now in Common HTTP Features click the box for everything then click ok 
@@ -263,7 +292,8 @@ Now in Common HTTP Features click the box for everything then click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f951f632-2872-4816-b339-7586ea44d7e8"/>
+![30](https://github.com/user-attachments/assets/e552ed95-ff6b-4877-b951-ebb208dc8fd5)
+
 </p>
 <p>
 Then you will see a loading screen process 
@@ -271,7 +301,8 @@ Then you will see a loading screen process
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d3c8f6d1-b2f1-40f0-bb90-fcf03e41ec72"/>
+![31](https://github.com/user-attachments/assets/f04be8e7-42cb-44f8-899b-2461bb6a6e19)
+
 </p>
 <p>
 Now open up microsoft excel and click start without your data
@@ -279,7 +310,8 @@ Now open up microsoft excel and click start without your data
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/175c71d1-f746-4507-adeb-946718c85528"/>
+![32](https://github.com/user-attachments/assets/ba514572-b3ab-4a29-b7b4-ea49cd4e3e4e)
+
 </p>
 <p>
 Now click continue without this data 
@@ -287,7 +319,8 @@ Now click continue without this data
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4e728615-2d5f-4c21-b43b-c4d1cf9bbcb1"/>
+![33](https://github.com/user-attachments/assets/aff772c1-5a7e-43fd-b698-b2d5912687c4)
+
 </p>
 <p>
 Next click confirm and continue 
@@ -295,7 +328,8 @@ Next click confirm and continue
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a5ea5ff4-09a3-4213-b9e3-d5d281f3623b"/>
+![34](https://github.com/user-attachments/assets/4f9860cd-07b9-41fb-a466-4275912a0eb9)
+
 </p>
 <p>
 Finally click continue and start browsing 
@@ -303,7 +337,8 @@ Finally click continue and start browsing
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9851b44c-23d1-4d32-a61b-6ce5ad7526c1"/>
+![35](https://github.com/user-attachments/assets/3205cdfd-5153-4bb6-a61e-32d3dfef208a)
+
 </p>
 <p>
 Next once the process is complete click close 
@@ -311,7 +346,8 @@ Next once the process is complete click close
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/6a79a3e7-d690-4a16-9b19-cd313e78ed8e"/>
+![36](https://github.com/user-attachments/assets/6fa29fc6-2b80-456c-a0b1-d3f5faa7872c)
+
 </p>
 <p>
 Now in order to see if the process worked type 127.0.0.1 in the search bar and you will see the same image above 
@@ -319,7 +355,8 @@ Now in order to see if the process worked type 127.0.0.1 in the search bar and y
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7ede1ce6-e69f-4421-99f3-e81ddeb05f91"/>
+![37](https://github.com/user-attachments/assets/e9b04296-755a-4a8e-b716-e4b855003ca6)
+
 </p>
 <p>
 Next open the link and download PHP Manager for IIS click the download symbol on the side
@@ -327,7 +364,8 @@ Next open the link and download PHP Manager for IIS click the download symbol on
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/557bc0ab-6ed6-4b2c-947c-c445bd5f0b53"/>
+![38](https://github.com/user-attachments/assets/0a927830-6fed-401d-bcdc-a3bb7832a064)
+
 </p>
 <p>
 Now open up file explorer and go to your downloads folder then double click PHP manager 
@@ -335,7 +373,8 @@ Now open up file explorer and go to your downloads folder then double click PHP 
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f716cf3e-09b0-4626-99df-38eaa1e3af29"/>
+![39](https://github.com/user-attachments/assets/13e81914-3ac0-4cb7-b91c-160db689970b)
+
 </p>
 <p>
 Next click next 
@@ -343,7 +382,8 @@ Next click next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/282eeedf-144b-4e5a-8f3b-5e10c680f1c5"/>
+![40](https://github.com/user-attachments/assets/47c4971e-d1ae-4aa6-9888-3850bf7fb1c6)
+
 </p>
 <p>
 Next click I agree and then next 
@@ -351,7 +391,8 @@ Next click I agree and then next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/bf7f526b-81bf-4bb4-ad28-c7c21fac535a"/>
+![41](https://github.com/user-attachments/assets/e66be1dd-303d-4c62-8bdd-8ad98c1bf282)
+
 </p>
 <p>
 Finally click close 
@@ -359,7 +400,8 @@ Finally click close
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/dd9df8e2-659b-4457-a1d1-00d6bc838fd0"/>
+![42](https://github.com/user-attachments/assets/a1cf2e60-62fc-49d2-a2d9-0a237eac8d31)
+
 </p>
 <p>
 Next go back to the link and download Rewrite Module click the download symbol 
@@ -367,7 +409,8 @@ Next go back to the link and download Rewrite Module click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/69b4befa-4082-4076-99b6-fa5726f2be5b"/>
+![43](https://github.com/user-attachments/assets/e87d9886-8850-420a-9174-baeaa8fdaaad)
+
 </p>
 <p>
 Go back to file explorer and double click rewrite 
@@ -375,7 +418,8 @@ Go back to file explorer and double click rewrite
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d8577920-628a-493c-bf85-6c23f01e8a48"/>
+![44](https://github.com/user-attachments/assets/57d78570-7d95-4e62-b4d6-7728c1adc426)
+
 </p>
 <p>
 Click I accept then install 
@@ -383,7 +427,8 @@ Click I accept then install
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/092f4b48-9225-4a7f-9674-aa9569bb6d04"/>
+![45](https://github.com/user-attachments/assets/630e708c-b68e-49ce-b4b1-3c0f7174b8af)
+
 </p>
 <p>
 Now let the process start 
@@ -391,7 +436,8 @@ Now let the process start
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/46a693bc-84bb-4023-a4d4-ffa5ae957512"/>
+![46](https://github.com/user-attachments/assets/e9f80eb9-b42f-4566-b99f-451c5d96f024)
+
 </p>
 <p>
 Next click finish
@@ -399,7 +445,8 @@ Next click finish
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/437b01b3-cb18-4a5d-b77d-9a1b169d8dab"/>
+![47](https://github.com/user-attachments/assets/e48fefc2-ea41-4283-9b62-40202e942ad4)
+
 </p>
 <p>
 Next go back to the link and download PHP 7.3.8 click the download symbol 
@@ -407,7 +454,8 @@ Next go back to the link and download PHP 7.3.8 click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c10e3dc0-4e13-43b9-ade7-d569f3b56190"/>
+![48](https://github.com/user-attachments/assets/f13feed3-7989-4272-ad07-4c3ebe722c89)
+
 </p>
 <p>
 Go back to file explorer and you will see the file in the download folder 
@@ -415,7 +463,8 @@ Go back to file explorer and you will see the file in the download folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a02af26e-5491-4005-938e-ff743d86e07e"/>
+![49](https://github.com/user-attachments/assets/8affe2fc-2254-4175-a6cd-cc35647aba7e)
+
 </p>
 <p>
 Now click on Windows (C) 
@@ -423,7 +472,8 @@ Now click on Windows (C)
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/14176c62-b5c9-43c8-8bd4-4e9177aa22ef"/>
+![50](https://github.com/user-attachments/assets/3e23a414-971c-40e4-8f8d-79fa6690e714)
+
 </p>
 <p>
 From here right click anywhere and click new then select folder 
@@ -431,7 +481,8 @@ From here right click anywhere and click new then select folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7889b411-2c14-4dc2-92b9-c6b6228adfb3"/>
+![51](https://github.com/user-attachments/assets/a39f6b85-7839-434f-962e-d900d45bb94a)
+
 </p>
 <p>
 Now name the folder PHP
@@ -439,7 +490,8 @@ Now name the folder PHP
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/de31d752-c9a0-48e5-a9c4-f0308f22d181"/>
+![52](https://github.com/user-attachments/assets/1f1870ef-6320-42ee-82b1-29b0a26c93c8)
+
 </p>
 <p>
 Go back to the download folder and right click php folder then click Extract All
@@ -447,7 +499,8 @@ Go back to the download folder and right click php folder then click Extract All
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1e3de15f-05df-40a2-94ef-90223a2dc1a1"/>
+![53](https://github.com/user-attachments/assets/c6c7b659-0e65-4ba0-9aa6-c886a5b54c07)
+
 </p>
 <p>
 Now click browse 
@@ -455,7 +508,8 @@ Now click browse
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/de6ff1d7-429c-4a19-8678-72315387fd0e"/>
+![54](https://github.com/user-attachments/assets/09232923-94c0-4036-b3a9-db4161b89422)
+
 </p>
 <p>
 Next go to Windows (C) then click the PHP folder we created 
@@ -463,7 +517,8 @@ Next go to Windows (C) then click the PHP folder we created
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/db4b6ead-5edc-47d6-9b8a-2e223f4a9178"/>
+![55](https://github.com/user-attachments/assets/a43aa800-1e94-40ca-8d94-3e1fa885ea7c)
+
 </p>
 <p>
 Now once you are in the folder click select folder on the bottom right 
@@ -471,7 +526,8 @@ Now once you are in the folder click select folder on the bottom right
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/288c3d65-7bff-47c0-8161-1b50fe62a534"/>
+![56](https://github.com/user-attachments/assets/30fdb415-a37e-49cd-8ffa-aa028c95f681)
+
 </p>
 <p>
 Now click the extract button
@@ -479,7 +535,8 @@ Now click the extract button
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/912c3522-5954-42fa-a380-933cd7957a99"/>
+![57](https://github.com/user-attachments/assets/eee805ad-8ebd-492f-b5b7-a46041b60a4d)
+
 </p>
 <p>
 Next you will see all the files load into the PHP folder
@@ -487,7 +544,8 @@ Next you will see all the files load into the PHP folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9668435c-d238-4608-8022-7020a6e8bf38"/>
+![58](https://github.com/user-attachments/assets/11b448f5-61f5-434b-ae25-5569053ce89f)
+
 </p>
 <p>
 Next go to the link and click the link to download VC RedistX86.exe click the download symbol
@@ -495,7 +553,8 @@ Next go to the link and click the link to download VC RedistX86.exe click the do
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5da2381e-027b-41ee-9df3-cbd21331a21d"/>
+![59](https://github.com/user-attachments/assets/89a6cc21-b93d-4357-a5b5-08da1fc2d841)
+
 </p>
 <p>
 Now go to file explorer and double click VC_redist 
@@ -503,7 +562,8 @@ Now go to file explorer and double click VC_redist
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2b2a82b7-ea2b-49b5-80b7-dc333e7e2bc0"/>
+![60](https://github.com/user-attachments/assets/e80fb105-d2e6-497f-b7fe-49917692a27a)
+
 </p>
 <p>
 Click Install 
@@ -511,7 +571,8 @@ Click Install
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/be911f23-5a1f-459b-bf54-5a251a45a236"/>
+![61](https://github.com/user-attachments/assets/2eefe59a-5b36-4183-8225-4dbf00d8b8fe)
+
 </p>
 <p>
 Now once the process is done click close 
@@ -519,7 +580,8 @@ Now once the process is done click close
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e619f6d7-0ded-4bc0-a953-ff2bdf7e0c27"/>
+![62](https://github.com/user-attachments/assets/53d6477e-c4dd-4758-91e0-e6f10f3fb91f)
+
 </p>
 <p>
 Next click the link an download MySQL 5.5.62 then click the download symbol 
@@ -527,7 +589,8 @@ Next click the link an download MySQL 5.5.62 then click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c76ee24a-f88b-444d-ba1b-d3783dc2d6d8"/>
+![63](https://github.com/user-attachments/assets/1b4b9c08-c735-45a9-bd53-6fbab82af471)
+
 </p>
 <p>
 Now go to file explorer and double click mysql to open the program 
@@ -535,7 +598,8 @@ Now go to file explorer and double click mysql to open the program
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/20c47cb8-c2f9-48eb-95d2-d7884a07d734"/>
+![64](https://github.com/user-attachments/assets/b0d368cc-7d4d-459b-be70-6952a9e5c8f6)
+
 </p>
 <p>
 Next click next 
@@ -543,7 +607,8 @@ Next click next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/008e08c5-a0b1-48a1-a669-d23511da9b39"/>
+![65](https://github.com/user-attachments/assets/6c03d529-fec4-4e4b-90ae-3a1cdc9d33e1)
+
 </p>
 <p>
 Next click next 
@@ -551,7 +616,8 @@ Next click next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ed8dad36-e031-417d-9b9f-3d2640d59f12"/>
+![66](https://github.com/user-attachments/assets/bee12d5d-c816-4223-96da-ccab48c6f581)
+
 </p>
 <p>
 Now click Typical 
@@ -559,7 +625,8 @@ Now click Typical
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/937d59b3-4945-40f8-8757-2c6edc041c51"/>
+![67](https://github.com/user-attachments/assets/b0f6b18c-dec2-4d11-8b1e-7adf9aeb5106)
+
 </p>
 <p>
 Next click install 
@@ -567,7 +634,8 @@ Next click install
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1f4fc9ed-d2f2-4445-b61d-b1ee1f4d6a3f"/>
+![68](https://github.com/user-attachments/assets/0a84ed5e-bf37-4ef3-a5be-26f1f587d1d2)
+
 </p>
 <p>
 Now click finish 
@@ -575,7 +643,8 @@ Now click finish
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cb13b58c-6c6f-46a1-bbf6-09986ded6e1f"/>
+![69](https://github.com/user-attachments/assets/8c142cb4-9fc9-4ca9-8dc7-87fc1c5ca299)
+
 </p>
 <p>
 Now click next 
@@ -583,7 +652,8 @@ Now click next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1926c0fc-b984-438d-b863-8d3d993ac0ea"/>
+![70](https://github.com/user-attachments/assets/633eb983-1a7f-4992-b681-4b05595e51f0)
+
 </p>
 <p>
 Now click Standard Configuration then click next 
@@ -591,7 +661,8 @@ Now click Standard Configuration then click next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a5aaf679-e76d-4e4d-bf58-d9cef62cbce8"/>
+![71](https://github.com/user-attachments/assets/150edba2-70f2-428b-a179-41c748614dfa)
+
 </p>
 <p>
 Now click Install as Windows Service then click next 
@@ -599,7 +670,8 @@ Now click Install as Windows Service then click next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8308594d-9b64-400e-8de3-e794ed296f70"/>
+![72](https://github.com/user-attachments/assets/a2ed5cc2-5e4b-455c-ac95-4e8c747a1538)
+
 </p>
 <p>
 Now type the password. For this example I'm going to type Password1 then click next 
@@ -607,7 +679,8 @@ Now type the password. For this example I'm going to type Password1 then click n
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/43cc6062-a91c-45b0-8a92-6a6a54352a95"/>
+![73](https://github.com/user-attachments/assets/122b4182-c94f-4099-aff9-91e4f4e5c4a8)
+
 </p>
 <p>
 Next click execute to finish the process
@@ -615,7 +688,8 @@ Next click execute to finish the process
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e3da9c2f-3f14-4be1-9257-7655551e44fa"/>
+![74](https://github.com/user-attachments/assets/4ccb3942-2f6a-439d-8ab1-ec529f5667af)
+
 </p>
 <p>
 You will then see the process finish 
@@ -623,7 +697,8 @@ You will then see the process finish
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cadedd65-6d83-4410-a35d-80498ddc9a08"/>
+![75](https://github.com/user-attachments/assets/57a6f66c-f0cc-45bd-89e6-07bfbe87a146)
+
 </p>
 <p>
 Now type IIS or Internet Information Services then right click then click run as administrator 
@@ -631,7 +706,8 @@ Now type IIS or Internet Information Services then right click then click run as
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5f0a0fe5-14b6-4fcb-be1a-de682dce0d72"/>
+![76](https://github.com/user-attachments/assets/44515fe1-c7ee-4dcd-9865-c65f3e0e374b)
+
 </p>
 <p>
 Now click PHP Manager 
@@ -639,7 +715,8 @@ Now click PHP Manager
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4a0bfe9a-840e-48fa-ac4e-428cb082281f"/>
+![77](https://github.com/user-attachments/assets/e8685e7a-7fc9-48ee-8d10-c67cf3415064)
+
 </p>
 <p>
 Next click Register new PHP version 
@@ -647,7 +724,8 @@ Next click Register new PHP version
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ebbc52d3-3b98-4d04-923d-bb8db0565ef2"/>
+![78](https://github.com/user-attachments/assets/7306b22a-d9c4-47cd-a13c-c22189c3df0d)
+
 </p>
 <p>
 Now you will see this tab, click the three dots on the right side  
@@ -655,7 +733,8 @@ Now you will see this tab, click the three dots on the right side
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/37ab34e9-80f1-489a-9b61-f52032aed5b0"/>
+![79](https://github.com/user-attachments/assets/41dce522-08b6-49ef-9243-06acfc979849)
+
 </p>
 <p>
 Now go to Windows (C) then click the PHP folder we created earlier 
@@ -663,7 +742,8 @@ Now go to Windows (C) then click the PHP folder we created earlier
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2145448d-3c40-41be-b8e0-d148f17f4ab4"/>
+![80](https://github.com/user-attachments/assets/5fc2287d-3891-4f09-90db-10fd8095594e)
+
 </p>
 <p>
 Now click the PHP foler then click php-cgi 
@@ -671,7 +751,8 @@ Now click the PHP foler then click php-cgi
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2088c3cf-6797-45f8-a674-e6378ce5abd5"/>
+![81](https://github.com/user-attachments/assets/6fe86a46-0b84-4ade-aa72-032f408026ff)
+
 </p>
 <p>
 Now you will see the path before you on the white bar then click ok 
@@ -679,7 +760,8 @@ Now you will see the path before you on the white bar then click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/20c27225-d41e-4637-8edd-27bc194c39e1"/>
+![82](https://github.com/user-attachments/assets/2901ff42-d1e1-4c1e-a35e-2ce825c59a87)
+
 </p>
 <p>
 Now you will see that the caution sign disappeared from PHP Setup
@@ -687,7 +769,8 @@ Now you will see that the caution sign disappeared from PHP Setup
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/6640a965-fdfe-4a0f-b1e1-3d247d23993d"/>
+![83](https://github.com/user-attachments/assets/595a7d95-2565-4cb7-9983-e11733485091)
+
 </p>
 <p>
 Go back to Microsoft Azure and click VM-osticket then click restart. Then click yes to restart the VM
@@ -695,7 +778,8 @@ Go back to Microsoft Azure and click VM-osticket then click restart. Then click 
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3a46f250-37fd-4d70-847a-22b7f7b16f17"/>
+![84](https://github.com/user-attachments/assets/604b21b8-d05b-4ab0-9986-946a44874efb)
+
 </p>
 <p>
 Now you will see that the VM is loading 
@@ -703,7 +787,8 @@ Now you will see that the VM is loading
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c78817ef-dd63-4454-b60f-39eac21ff56e"/>
+![85](https://github.com/user-attachments/assets/a8f40e8b-259b-4660-bb76-dcd4f9f2f2fa)
+
 </p>
 <p>
 Now go to the link and download osTicket then click the download symbol
@@ -711,7 +796,8 @@ Now go to the link and download osTicket then click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/628b7a9f-2c18-4acd-a0d0-e4e556907578"/>
+![86](https://github.com/user-attachments/assets/6d7500d3-480a-4fb7-aff7-4aa50c591d90)
+
 </p>
 <p>
 Next open file explorer and you will see osTicket was installed as a zip file 
@@ -719,7 +805,8 @@ Next open file explorer and you will see osTicket was installed as a zip file
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/0fda9fa0-2436-496a-9c11-69cb9dacb6ee"/>
+![87](https://github.com/user-attachments/assets/87137fd3-8cc0-4926-a9a5-7f2235e18bb1)
+
 </p>
 <p>
 Next go to Windows (C)
@@ -727,7 +814,8 @@ Next go to Windows (C)
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/45b9b90a-84c1-45aa-b7e6-2ea1c0aa785f"/>
+![88](https://github.com/user-attachments/assets/38c62aa3-8966-435c-9dcb-3a4f4f697e53)
+
 </p>
 <p>
 Next click inetpub folder 
@@ -735,7 +823,8 @@ Next click inetpub folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/bbf29450-52f0-41ff-ad80-53c9c17caf42"/>
+![89](https://github.com/user-attachments/assets/74f015e7-a565-4e39-8bad-f1ccc3d3b733)
+
 </p>
 <p>
 Now click the wwwroot folder
@@ -743,7 +832,8 @@ Now click the wwwroot folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/df9cc101-2472-40d4-be92-54ee43ef90c7"/>
+![90](https://github.com/user-attachments/assets/4414217e-1841-4c14-b1b2-428383070e78)
+
 </p>
 <p>
 Now you will be in the wwwroot folder and see the following 
@@ -751,7 +841,8 @@ Now you will be in the wwwroot folder and see the following
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2393e12c-ada5-4532-8ed5-af6f456cad69"/>
+![91](https://github.com/user-attachments/assets/3c1336c0-039f-4d02-8de2-9f45665e2370)
+
 </p>
 <p>
 Next go back to the osTicket folder and click the upload folder 
@@ -759,7 +850,8 @@ Next go back to the osTicket folder and click the upload folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8ab5c340-0c96-4c88-bc5b-8e407b26c4c4"/>
+![92](https://github.com/user-attachments/assets/0a9c2c82-d3a7-41b9-8f95-b950a333cba7)
+
 </p>
 <p>
 Now drag the upload file to the wwwroot folder
@@ -767,7 +859,8 @@ Now drag the upload file to the wwwroot folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e498f010-8092-4e5b-9fe1-a223e392605f"/>
+![93](https://github.com/user-attachments/assets/621a3fbf-9c46-44e5-b5f2-dcf69b8dffbc)
+
 </p>
 <p>
 Once the files are done copying over rename the file osTicket in wwwroot folder
@@ -775,7 +868,8 @@ Once the files are done copying over rename the file osTicket in wwwroot folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1bdebc35-ffc8-421e-a1a5-f82d0750f6a2"/>
+![94](https://github.com/user-attachments/assets/28fdac07-22ef-45ce-872d-21715d855117)
+
 </p>
 <p>
 Next type IIS or Internet Information Services then right click and open as administrator
@@ -783,7 +877,8 @@ Next type IIS or Internet Information Services then right click and open as admi
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8f159bee-0b7b-4625-9a7f-f8987bdbea71"/>
+![95](https://github.com/user-attachments/assets/dbbe6ba6-8cae-4594-8245-04d6d9703be9)
+
 </p>
 <p>
 Now click the VM-osticket and then click restart on the right side 
@@ -791,7 +886,8 @@ Now click the VM-osticket and then click restart on the right side
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ac9a6e67-47a2-4e1c-b8d2-0774756155fc"/>
+![96](https://github.com/user-attachments/assets/f197a0a5-6ab4-4762-9f28-d0d6dd997082)
+
 </p>
 <p>
 Next click the sites folder 
@@ -799,7 +895,8 @@ Next click the sites folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/b53533a6-5499-495b-9d12-2888c9fe441c"/>
+![97](https://github.com/user-attachments/assets/9f2dcf36-4862-41fd-9705-162014bd9a5f)
+
 </p>
 <p>
 Next click the osTicket folder 
@@ -807,7 +904,8 @@ Next click the osTicket folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/0b312203-94be-4dfc-b1f6-b8003c65afb8"/>
+![98](https://github.com/user-attachments/assets/ccf7c523-5f38-45d3-93ec-ce9f609a8378)
+
 </p>
 <p>
 Now click Browse *80 (http) 
@@ -815,7 +913,8 @@ Now click Browse *80 (http)
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/075cdf14-74d8-48db-932f-ebcfb99cdce3"/>
+![99](https://github.com/user-attachments/assets/e92cf47e-ff23-4f18-8af8-0bbfed5fc0bb)
+
 </p>
 <p>
 You will see the page load with alot of green check and red checks 
@@ -823,7 +922,8 @@ You will see the page load with alot of green check and red checks
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9e4cd293-049d-4e3e-bfc1-b3384f31798a"/>
+![100](https://github.com/user-attachments/assets/15ebb322-7846-416c-a168-40002b458777)
+
 </p>
 <p>
 Next go to PHP Manager 
@@ -831,7 +931,8 @@ Next go to PHP Manager
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/09fd821f-6935-4610-a48b-86d3e49b3528"/>
+![101](https://github.com/user-attachments/assets/f5a7a817-f7fd-4e79-89b4-c0cce8c30757)
+
 </p>
 <p>
 Next click enable or disable an extension 
@@ -839,7 +940,8 @@ Next click enable or disable an extension
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/bbb4ad96-ae43-4098-97b8-0460b4258dea"/>
+![102](https://github.com/user-attachments/assets/cf316f5f-3597-43de-ba8b-ca478e807d7c)
+
 </p>
 <p>
 Now find php_imap.dll we can see its disbale then click, then go to the top right then click enable 
@@ -847,7 +949,8 @@ Now find php_imap.dll we can see its disbale then click, then go to the top righ
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d272733a-a8f5-42e6-a104-a8acf1d87e06"/>
+![103](https://github.com/user-attachments/assets/6032a21f-0633-4ee4-bd42-525b31f13ab4)
+
 </p>
 <p>
 Now find php_intl.dll then click, then go to the top right then click enable 
@@ -855,7 +958,8 @@ Now find php_intl.dll then click, then go to the top right then click enable
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/76650fea-0640-49b0-a41a-e40fbf2d3456"/>
+![104](https://github.com/user-attachments/assets/685a94b1-e2c8-4d3d-88d3-dc1bd8b694d5)
+
 </p>
 <p>
 Now find php_opcache.dll then click, then go to the top right then click enable
@@ -863,7 +967,8 @@ Now find php_opcache.dll then click, then go to the top right then click enable
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f56f70f5-6900-4801-aa07-578c9e2a9855"/>
+![105](https://github.com/user-attachments/assets/3d3d933e-6476-4d35-bd09-990505010049)
+
 </p>
 <p>
 Now go back to the osTicket home page 
@@ -871,7 +976,8 @@ Now go back to the osTicket home page
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/07f2bf28-3b75-4b93-9d9c-b93c420cb762"/>
+![106](https://github.com/user-attachments/assets/6817e1a3-678a-4c6b-9301-028e8ba092fe)
+
 </p>
 <p>
 Next click continue 
@@ -879,7 +985,8 @@ Next click continue
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a2a60e2c-1ff6-4bcf-96ae-cc58edbae2ea"/>
+![107](https://github.com/user-attachments/assets/9243111c-d6f7-43aa-b765-a02532c669c0)
+
 </p>
 <p>
 Now go back to the osTicket folder from wwwroot
@@ -887,7 +994,8 @@ Now go back to the osTicket folder from wwwroot
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3ea95a96-51ad-4e58-b83a-b0efefa789bd"/>
+![108](https://github.com/user-attachments/assets/a9082e43-3950-44fb-b4f6-468d31027b33)
+
 </p>
 <p>
 Next click the include folder 
@@ -895,7 +1003,8 @@ Next click the include folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/42c79898-b086-4a31-9fb0-1fec407d6a2c"/>
+![109](https://github.com/user-attachments/assets/420cadec-f01f-456e-b2e9-1a8a3ade5c87)
+
 </p>
 <p>
 Now click ost-sampleconfig.php
@@ -903,7 +1012,8 @@ Now click ost-sampleconfig.php
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7fc88de0-5eca-4a5d-9256-4c6bc2407a9b"/>
+![110](https://github.com/user-attachments/assets/0b8bf4b9-b1e9-4fd8-a608-63f3547fff14)
+
 </p>
 <p>
 Now rename the file to ost-config.php
@@ -911,7 +1021,8 @@ Now rename the file to ost-config.php
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/811492d9-ef0b-47d5-b51f-e11fc80f25ab"/>
+![111](https://github.com/user-attachments/assets/d60627ee-f02a-4b9a-9032-afe8e002cced)
+
 </p>
 <p>
 Next right click the file then go to properties 
@@ -919,7 +1030,8 @@ Next right click the file then go to properties
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/fa970fff-95f5-4221-b56c-94db11a0d440"/>
+![112](https://github.com/user-attachments/assets/efccc130-0736-48c7-8e4f-aff86b2815df)
+
 </p>
 <p>
 Now click the security tab 
@@ -927,7 +1039,8 @@ Now click the security tab
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a46381c5-d906-481f-bec0-f9cb3783d8ed"/>
+![113](https://github.com/user-attachments/assets/6b8591bb-9d72-4e85-aa80-909367e8bdf3)
+
 </p>
 <p>
 Next click the advanced button
@@ -935,7 +1048,8 @@ Next click the advanced button
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/55a113f1-bffb-4338-9bc9-5621c7368e77"/>
+![114](https://github.com/user-attachments/assets/bed09729-ae50-4835-9986-3bdec63efbb7)
+
 </p>
 <p>
 Now click disable inheritance 
@@ -943,7 +1057,8 @@ Now click disable inheritance
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cffb17c6-f381-4187-af58-93ae40460bf0"/>
+![115](https://github.com/user-attachments/assets/48cfbe4d-958a-44aa-b086-084fcc538d64)
+
 </p>
 <p>
 Next click remove all inherited permission from this object 
@@ -951,7 +1066,8 @@ Next click remove all inherited permission from this object
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8ad6d188-2cbd-44fb-8509-fe4ba7176163"/>
+![116](https://github.com/user-attachments/assets/76698c06-c1be-4b37-b711-aa32bc5c3d98)
+
 </p>
 <p>
 Next click add 
@@ -959,7 +1075,7 @@ Next click add
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/176efbeb-5fdc-4a70-9a44-1c9c59d0ac4e"/>
+
 </p>
 <p>
 Next click select a principal

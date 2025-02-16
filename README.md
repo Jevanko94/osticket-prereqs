@@ -1372,6 +1372,6 @@ Now click apply
 
 </p>
 <p>
-Finally click ok then click the link to continue the Post-Installation Configuration https://github.com/Jacobvillagomez1/post-install-config
+Finally click ok then click the link to continue the Post-Installation Configuration https://github.com/Jevanko94/post-install-config/tree/main
 </p>
 <br />

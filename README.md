@@ -1072,6 +1072,7 @@ Next click add
 <br />
 
 <p>
+<img src="https://github.com/user-attachments/assets/7ec15b41-f9bd-45fb-b38e-802c7ac64dfd
 
 </p>
 <p>
@@ -1080,7 +1081,8 @@ Next click select a principal
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/85fc3f75-b2ad-46d6-83a4-63d26dc9e2ce"/>
+<img src="https://github.com/user-attachments/assets/13145929-b0ce-4c0e-8343-cf506171320c
+
 </p>
 <p>
 Now type everyone 
@@ -1088,7 +1090,8 @@ Now type everyone
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a857d05b-234a-475c-9f9b-55cfc4368e3c"/>
+<img src="https://github.com/user-attachments/assets/87b7593e-b545-4172-a955-e38b65e770a8
+
 </p>
 <p>
 Now click ok 
@@ -1096,7 +1099,8 @@ Now click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4c34624d-f5e2-48df-8b73-e9fb157fafe2"/>
+<img src="https://github.com/user-attachments/assets/4eccd1e3-ece1-437f-8e8a-90f42e9c6ad5
+
 </p>
 <p>
 Now click all the permissions then click ok 
@@ -1104,7 +1108,8 @@ Now click all the permissions then click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1c591885-b33f-484d-aafe-f2ac5f5768ce"/>
+<img src="https://github.com/user-attachments/assets/97fc2a5d-e066-489c-a4cf-56eb34fceebf
+
 </p>
 <p>
 Now click apply 
@@ -1112,7 +1117,8 @@ Now click apply
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7be67c43-7a1e-4804-985d-a2c216d5c44b"/>
+<img src="https://github.com/user-attachments/assets/7661fcd3-b3a6-4d00-8f06-dd68d90b5484
+
 </p>
 <p>
 Next click ok 
@@ -1120,7 +1126,8 @@ Next click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3c17f685-1f6e-4e1b-9b23-8d4eab55626b"/>
+<img src="https://github.com/user-attachments/assets/9fb91e24-1b33-4ffa-8135-e7334e60ae75
+
 </p>
 <p>
 Now click ok 
@@ -1128,7 +1135,8 @@ Now click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3998f1b6-1ca6-43c2-bc39-bc7b02703444"/>
+<img src="https://github.com/user-attachments/assets/d8d9ea2c-79f8-4be1-87f3-e02e4fee5114
+
 </p>
 <p>
 Next go back to the OsTicket home page and click continue
@@ -1136,14 +1144,16 @@ Next go back to the OsTicket home page and click continue
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/0563e86f-5b37-4e20-97e5-28762d41a552"/>
+<img src="https://github.com/user-attachments/assets/4eb6caf9-2feb-410b-beda-f854a72f1c9c
+
 </p>
 <p>
 For the helpdesk name type josh help desk, the deafult email type josh@help.com. Now for admin user the first name type josh then the last name type garcia. For email address type josh@gmail.com. For the username josh then type the password I will type Password1. 
 </p>
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f76320fc-4ab9-41f5-b3c4-a057330a89a1"/>
+<img src="https://github.com/user-attachments/assets/f61d5208-2da8-4ee1-a78b-1b8364ff27b1
+
 </p>
 <p>
 Now go to back to the link and download HeidiSQL then click the download symbol
@@ -1151,7 +1161,8 @@ Now go to back to the link and download HeidiSQL then click the download symbol
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/28b301f0-e839-4cbd-8aea-f1d5bcdceb40"/>
+<img src="https://github.com/user-attachments/assets/6f1baf4e-cea5-41d1-b560-9300f10d17e9
+
 </p>
 <p>
 Now go to file explorer and double click HediSQL
@@ -1159,7 +1170,8 @@ Now go to file explorer and double click HediSQL
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c8d7d7ea-f9e5-483a-84ba-42fc48c34c14"/>
+<img src="https://github.com/user-attachments/assets/04c15988-cd55-40ee-91a5-80424ce1bb2f
+
 </p>
 <p>
 Next click I accept the agreement then click next 
@@ -1167,7 +1179,8 @@ Next click I accept the agreement then click next
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4c09d5e1-a1ec-4ecd-b351-cff2644c9352"/>
+<img src="https://github.com/user-attachments/assets/246bfedb-2e63-405d-9b41-d2acab9fd8e7
+
 </p>
 <p>
 Next click install
@@ -1175,7 +1188,8 @@ Next click install
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/052ad3b3-ab82-4479-88bf-859a28d2f721"/>
+<img src="https://github.com/user-attachments/assets/44b4b395-0234-4839-9f47-044d61726c33
+
 </p>
 <p>
 You will see the process start 
@@ -1183,7 +1197,8 @@ You will see the process start
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e52fd989-0735-449d-ac63-32d03400e29d"/>
+<img src="https://github.com/user-attachments/assets/cc3694c1-e9b5-41a9-b559-f3aece4d6835
+
 </p>
 <p>
 Next click finish 
@@ -1191,7 +1206,8 @@ Next click finish
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/93171893-f444-4e2c-a3ef-6ec6fa81f7ac"/>
+<img src="https://github.com/user-attachments/assets/bf7a74cb-e6cf-4794-a3d5-7637d307bf0c
+
 </p>
 <p>
 Next click skip 
@@ -1199,7 +1215,8 @@ Next click skip
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/02baf490-ba6b-4042-a825-0088e7c583ff"/>
+<img src="https://github.com/user-attachments/assets/28f3fc03-4c14-4f14-a775-03eb7cf5720e
+
 </p>
 <p>
 Now type root
@@ -1207,7 +1224,8 @@ Now type root
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1c84cfb4-97d7-4014-a1ec-3dffb2c1c4c7"/>
+<img src="https://github.com/user-attachments/assets/aa002f40-cec3-4139-a21f-3984308417f3
+
 </p>
 <p>
 Next for the password section type Password1 then click open
@@ -1215,7 +1233,8 @@ Next for the password section type Password1 then click open
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a4b4daff-d66e-4e86-b894-212d91c6f0f8"/>
+<img src="https://github.com/user-attachments/assets/404cbac0-8ef8-4979-90ce-9a179f45b28e
+
 </p>
 <p>
 Now you will see the unamed tab 
@@ -1223,7 +1242,8 @@ Now you will see the unamed tab
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ece476ab-ebc7-4c51-8fdb-6e20f89202e0"/>
+<img src="https://github.com/user-attachments/assets/a87cd869-190c-47f6-b904-d2baa1b2c649
+
 </p>
 <p>
 Next type root for the MySQL Username then for the MySQL Password type Password1
@@ -1231,7 +1251,8 @@ Next type root for the MySQL Username then for the MySQL Password type Password1
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5f2e5a35-ed90-497b-a8ff-d500552d2923"/>
+<img src="https://github.com/user-attachments/assets/9d0e27bf-4286-472c-8015-fc6c7ddf58c5
+
 </p>
 <p>
 Now right click Unamed then go to create new then click Database
@@ -1239,7 +1260,8 @@ Now right click Unamed then go to create new then click Database
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/27cf046b-9eb5-453b-8701-2b9be2d8b24e"/>
+<img src="https://github.com/user-attachments/assets/967ba176-4172-49ac-b838-d46a61e2e83f
+
 </p>
 <p>
 Next type osTicket then click ok 
@@ -1247,7 +1269,8 @@ Next type osTicket then click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/b8f9d0ff-d1d1-458b-8ba0-5fc79b270f6f"/>
+<img src="https://github.com/user-attachments/assets/bd4ecdbc-ed35-4ccd-bcdf-bf8011abbfe5
+
 </p>
 <p>
 Next type osTicket for MySQL Database
@@ -1255,7 +1278,8 @@ Next type osTicket for MySQL Database
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/735b889b-91fb-4865-bc1e-d641db847f10"/>
+<img src="https://github.com/user-attachments/assets/eb22c624-2050-4663-8a3b-3858d1789c04
+
 </p>
 <p>
 Now you will see the process load 
@@ -1263,7 +1287,8 @@ Now you will see the process load
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c0f2ae4e-4f2a-4ac4-bbdb-de5a3f21ba22"/>
+<img src="https://github.com/user-attachments/assets/3304fdb8-2bee-462f-858e-b70d04741aaa
+
 </p>
 <p>
 Next you will see the process finish and osTicket was installed
@@ -1271,7 +1296,8 @@ Next you will see the process finish and osTicket was installed
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/76cd532d-f6ff-4f51-bae1-ff8e87505bf3"/>
+<img src="https://github.com/user-attachments/assets/784822c6-b7f8-47f9-aa27-8ded2954892c
+
 </p>
 <p>
 Next go to the osTicket folder and delete the setup folder
@@ -1279,7 +1305,8 @@ Next go to the osTicket folder and delete the setup folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5ed0cb3e-3f8b-4fcf-84c4-be1930ca41ed"/>
+<img src="https://github.com/user-attachments/assets/5b2394f0-a487-4f20-bc43-c694aa0cb8c4
+
 </p>
 <p>
 Now click ost-config.php
@@ -1287,7 +1314,8 @@ Now click ost-config.php
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/be19e868-c931-4ca5-b3f7-fa3d257cf0c6"/>
+<img src="https://github.com/user-attachments/assets/3756d949-69b6-40c2-b9eb-871c548ba2c1
+
 </p>
 <p>
 Right click and go to properties 
@@ -1295,7 +1323,8 @@ Right click and go to properties
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/6db9f04f-224a-4c5f-9cd4-92a9c6638a20"/>
+<img src="https://github.com/user-attachments/assets/db70c15f-3768-4601-a271-ff3d22c25290
+
 </p>
 <p>
 Next click advanced 
@@ -1303,7 +1332,8 @@ Next click advanced
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/92146206-b6cc-416b-af36-8120cef97380"/>
+<img src="https://github.com/user-attachments/assets/d37763a1-984f-4eab-aa2e-c9d99116eebe
+
 </p>
 <p>
 Now click permissions
@@ -1311,7 +1341,8 @@ Now click permissions
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/06516cbe-e712-4a18-b380-d183d9363823"/>
+<img src="https://github.com/user-attachments/assets/3fb7701c-3f7a-4208-995c-ff6a77947943
+
 </p>
 <p>
 Next click allow everyone then click edit 
@@ -1319,7 +1350,8 @@ Next click allow everyone then click edit
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/405cc032-a569-40d3-a20b-a56bf757217a"/>
+<img src="https://github.com/user-attachments/assets/60d38c46-9a2d-4534-b2be-eaa3e9437c79
+
 </p>
 <p>
 Now uncheck full control, modify, and write then click ok  
@@ -1327,7 +1359,8 @@ Now uncheck full control, modify, and write then click ok
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c28422dc-faf8-40aa-9408-334738c1d909"/>
+<img src="https://github.com/user-attachments/assets/aa73ed48-6296-4c86-97e9-0a0f0a871518
+
 </p>
 <p>
 Now click apply
@@ -1335,7 +1368,8 @@ Now click apply
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/20df729d-6052-413c-ba38-c9048da1ca23"/>
+<img src="https://github.com/user-attachments/assets/23fab22b-6ddf-47e5-811b-762ffedaf756
+
 </p>
 <p>
 Finally click ok then click the link to continue the Post-Installation Configuration https://github.com/Jacobvillagomez1/post-install-config

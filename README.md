@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/fa537c14-03b8-4e30-9b39-8a87fa05dabf"/>
+<img src="(https://imgur.com/a/PWEEOTY)"/>
 </p>
 <p>
 First go to Microsoft Azure and type Resource Group then click create Resource Group

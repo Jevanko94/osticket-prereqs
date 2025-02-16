@@ -34,7 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-https://imgur.com/a/PWEEOTY
+![1](https://github.com/user-attachments/assets/e895d721-36f2-457a-a76f-cfe51499a74a)
+
 </p>
 <p>
 First go to Microsoft Azure and type Resource Group then click create Resource Group

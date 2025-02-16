@@ -91,7 +91,6 @@ Now for the image select windows 10 pro version. For the size select standard Ec
 
 <p>
 <img src="https://github.com/user-attachments/assets/1cb48017-58fd-4a1f-9f35-2fd564d440c8"
-
 </p>
 <p>
 Next click the licensing box and then click review and create 
@@ -108,8 +107,7 @@ Now go to the networking tab and make sure virtual network, subnet, and public i
 <br />
 
 <p>
-![9](https://github.com/user-attachments/assets/13d3f8eb-2045-4ad7-b82a-74d7a27e0e46)
-
+<img src="https://github.com/user-attachments/assets/13d3f8eb-2045-4ad7-b82a-74d7a27e0e46)"
 </p>
 <p>
 Next create the virtual machine and you will see the deployment process start 
@@ -958,7 +956,7 @@ Now find php_intl.dll then click, then go to the top right then click enable
 <br />
 
 <p>
-![104](https://github.com/user-attachments/assets/685a94b1-e2c8-4d3d-88d3-dc1bd8b694d5)
+<img src="(https://github.com/user-attachments/assets/685a94b1-e2c8-4d3d-88d3-dc1bd8b694d5)"
 
 </p>
 <p>
@@ -1066,7 +1064,7 @@ Next click remove all inherited permission from this object
 <br />
 
 <p>
-![116](https://github.com/user-attachments/assets/76698c06-c1be-4b37-b711-aa32bc5c3d98)
+<img src="https://github.com/user-attachments/assets/76698c06-c1be-4b37-b711-aa32bc5c3d98"
 
 </p>
 <p>
